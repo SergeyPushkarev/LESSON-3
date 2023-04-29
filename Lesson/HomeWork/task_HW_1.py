@@ -1,1 +1,1 @@
-Print('Home work!')
+print('Home work!')
